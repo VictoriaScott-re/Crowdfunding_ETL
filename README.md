@@ -31,11 +31,11 @@ We downloaded the starter code and files to help us get started:
 ### Create the Crowdfunding Database
 
 - Created an ERD and table schema.
-    [ERD](images/ERD.png)
-    [Table Schema](query_tools/crowdfunding_tables_query.sql)
+    - [ERD](images/ERD.png)
+    - [Table Schema](query_tools/crowdfunding_tables_query.sql)
 - Imported CSV files into the Postgres database and verified the data.
-    [Table Queries](query_tools/table_query.sql)
-    [campaign image](images/campaign_image.png)
-    [category image](images/category_image.png)
-    [contacts image](images/contacts_image.png)
-    [subcategory image](images/subcat_image.png)
+    - [Table Queries](query_tools/table_query.sql)
+    - [campaign image](images/campaign_image.png)
+    - [category image](images/category_image.png)
+    - [contacts image](images/contacts_image.png)
+    - [subcategory image](images/subcat_image.png)
