@@ -15,18 +15,18 @@ We downloaded the starter code and files to help us get started:
 ### Create the Category and Subcategory DataFrames
 
 - Extracted and transformed data to create `category.csv` and `subcategory.csv`.
-- [category.csv](csv_files/category.csv)
-- [subcategory.csv](csv_files/subcategory.csv)
+    - [category.csv](csv_files/category.csv)
+    - [subcategory.csv](csv_files/subcategory.csv)
 
 ### Create the Campaign DataFrame
 
 - Extracted and transformed data to create `campaign.csv`.
-- [campaign.csv](csv_files/campaign.csv)
+    - [campaign.csv](csv_files/campaign.csv)
 
 ### Create the Contacts DataFrame
 
 - Extracted and transformed data to create `contacts.csv`.
-- [contacts.csv](csv_files/contacts.csv)
+    - [contacts.csv](csv_files/contacts.csv)
 
 ### Create the Crowdfunding Database
 
