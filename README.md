@@ -8,9 +8,9 @@ For this ETL mini project, we built an ETL pipeline using Python, Pandas, and re
 
 We downloaded the starter code and files to help us get started:
 
-[contacts.xlsx](Resources/contacts.xlsx)
-[crowdfunding.xlsx](Resources/crowdfunding.xlsx)
-[Jupyter_Notebook](ETL_Mini_Project_SShahid_VScott.ipynb)
+- [contacts.xlsx](Resources/contacts.xlsx)
+- [crowdfunding.xlsx](Resources/crowdfunding.xlsx)
+- [Jupyter_Notebook](ETL_Mini_Project_SShahid_VScott.ipynb)
 
 ### Create the Category and Subcategory DataFrames
 
